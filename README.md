@@ -20,6 +20,11 @@ This repository tracks my progress as I learn core web development concepts step
 - Adding audio using the `<audio>` tag
 - Using `<source>` to support multiple audio formats
 - Autoplay, controls, mute, and loop attributes
+- Adding video using the `<video>` tag
+- Using the `<source>` tag for video files
+- Playing local video files in HTML
+- Using video attributes like controls and width
+
 
 ---
 
