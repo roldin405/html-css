@@ -35,6 +35,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **images.html** – Page demonstrating image usage in HTML  
 - **audio.html** – Page demonstrating audio playback in HTML  
 - **README.md** – Project documentation  
+- **video.html** – Page demonstrating video playback in HTML
 
 ---
 
