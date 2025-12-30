@@ -15,8 +15,11 @@ This repository tracks my progress as I learn core web development concepts step
 - Linking local HTML pages
 - Email links using `mailto`
 - Preformatted text using the `<pre>` tag
-- **Adding images using the `<img>` tag**
-- **Using local image files in HTML**
+- Adding images using the `<img>` tag
+- Using local image files in HTML
+- Adding audio using the `<audio>` tag
+- Using `<source>` to support multiple audio formats
+- Autoplay, controls, mute, and loop attributes
 
 ---
 
@@ -25,9 +28,9 @@ This repository tracks my progress as I learn core web development concepts step
 - **index.html** – Main page with navigation links  
 - **lyrics.html** – Song lyrics page  
 - **images.html** – Page demonstrating image usage in HTML  
+- **audio.html** – Page demonstrating audio playback in HTML  
 - **README.md** – Project documentation  
 
 ---
-
 
 
