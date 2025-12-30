@@ -24,6 +24,10 @@ This repository tracks my progress as I learn core web development concepts step
 - Using the `<source>` tag for video files
 - Playing local video files in HTML
 - Using video attributes like controls and width
+- Adding a favicon using the `<link rel="icon">` tag
+- Using local image files as favicons
+- Setting favicon type and path correctly
+
 
 
 ---
@@ -36,6 +40,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **audio.html** – Page demonstrating audio playback in HTML  
 - **README.md** – Project documentation  
 - **video.html** – Page demonstrating video playback in HTML
+- **favicon.html** – Page demonstrating how to add a favicon in HTML
 
 ---
 
