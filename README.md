@@ -27,6 +27,13 @@ This repository tracks my progress as I learn core web development concepts step
 - Adding a favicon using the `<link rel="icon">` tag
 - Using local image files as favicons
 - Setting favicon type and path correctly
+- Text formatting using HTML tags
+- Bold, italic, underline, and deleted text
+- Big and small text formatting
+- Subscript and superscript text
+- Monospaced text using `<tt>`
+- Highlighting text using `<mark>`
+
 
 
 
@@ -41,6 +48,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **README.md** – Project documentation  
 - **video.html** – Page demonstrating video playback in HTML
 - **favicon.html** – Page demonstrating how to add a favicon in HTML
+- **textformatting.html** – Page demonstrating text formatting tags in HTML
 
 ---
 
