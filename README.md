@@ -33,6 +33,10 @@ This repository tracks my progress as I learn core web development concepts step
 - Subscript and superscript text
 - Monospaced text using `<tt>`
 - Highlighting text using `<mark>`
+- Using `<span>` for inline text styling
+- Using `<div>` for block-level layout
+- Understanding inline vs block elements
+- Grouping and styling content using span and div
 
 
 
@@ -49,6 +53,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **video.html** – Page demonstrating video playback in HTML
 - **favicon.html** – Page demonstrating how to add a favicon in HTML
 - **textformatting.html** – Page demonstrating text formatting tags in HTML
+- **span&div.html** – Page demonstrating the use of span and div elements
 
 ---
 
