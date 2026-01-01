@@ -37,6 +37,10 @@ This repository tracks my progress as I learn core web development concepts step
 - Using `<div>` for block-level layout
 - Understanding inline vs block elements
 - Grouping and styling content using span and div
+- Creating unordered lists using `<ul>` and `<li>`
+- Creating ordered lists using `<ol>` and `<li>`
+- Creating description lists using `<dl>`, `<dt>`, and `<dd>`
+- Nesting lists inside other lists
 
 
 
@@ -54,6 +58,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **favicon.html** – Page demonstrating how to add a favicon in HTML
 - **textformatting.html** – Page demonstrating text formatting tags in HTML
 - **span&div.html** – Page demonstrating the use of span and div elements
+- **lists.html** – Page demonstrating unordered, ordered, and description lists in HTML
 
 ---
 
