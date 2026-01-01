@@ -41,6 +41,10 @@ This repository tracks my progress as I learn core web development concepts step
 - Creating ordered lists using `<ol>` and `<li>`
 - Creating description lists using `<dl>`, `<dt>`, and `<dd>`
 - Nesting lists inside other lists
+- Creating tables using `<table>`, `<tr>`, `<th>`, and `<td>`
+- Adding table headers and table data
+- Structuring rows and columns in tables
+- Using basic table attributes like border, width, and alignment
 
 
 
@@ -59,6 +63,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **textformatting.html** – Page demonstrating text formatting tags in HTML
 - **span&div.html** – Page demonstrating the use of span and div elements
 - **lists.html** – Page demonstrating unordered, ordered, and description lists in HTML
+- **table.html** – Page demonstrating table creation and structure in HTML
 
 ---
 
