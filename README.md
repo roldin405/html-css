@@ -50,6 +50,13 @@ This repository tracks my progress as I learn core web development concepts step
 - Writing basic JavaScript functions
 - Changing page content dynamically using JavaScript
 - Selecting elements using `querySelector()`
+- Creating forms using the `<form>` tag
+- Using different input types (text, password, email, number, date, file)
+- Using form attributes like action, method, target, and enctype
+- Using labels for form accessibility
+- Creating radio buttons, checkboxes, and dropdown menus
+- Using textarea for user comments
+- Basic form validation using required, minlength, and maxlength
 
 
 
@@ -70,6 +77,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **lists.html** – Page demonstrating unordered, ordered, and description lists in HTML
 - **table.html** – Page demonstrating table creation and structure in HTML
 - **button.html** – Page demonstrating button click interaction using JavaScript
+- **forms.html** – Page demonstrating form creation and input handling in HTML
 
 ---
 
