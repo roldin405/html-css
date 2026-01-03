@@ -57,6 +57,10 @@ This repository tracks my progress as I learn core web development concepts step
 - Creating radio buttons, checkboxes, and dropdown menus
 - Using textarea for user comments
 - Basic form validation using required, minlength, and maxlength
+- Using semantic HTML elements like `<header>`, `<main>`, and `<footer>`
+- Creating page headers with navigation links
+- Structuring main content using the `<main>` tag
+- Creating page footers with copyright and contact information
 
 
 
@@ -78,6 +82,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **table.html** – Page demonstrating table creation and structure in HTML
 - **button.html** – Page demonstrating button click interaction using JavaScript
 - **forms.html** – Page demonstrating form creation and input handling in HTML
+- **headerfooter.html** – Page demonstrating the use of header, main, and footer elements
 
 ---
 
