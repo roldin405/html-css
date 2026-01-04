@@ -61,6 +61,11 @@ This repository tracks my progress as I learn core web development concepts step
 - Creating page headers with navigation links
 - Structuring main content using the `<main>` tag
 - Creating page footers with copyright and contact information
+- Adding CSS to HTML using an external stylesheet
+- Linking CSS files using the `<link>` tag
+- Using basic CSS selectors (element and id selectors)
+- Styling text and backgrounds using CSS
+- Understanding the separation of HTML (structure) and CSS (style)
 
 
 
@@ -83,6 +88,8 @@ This repository tracks my progress as I learn core web development concepts step
 - **button.html** – Page demonstrating button click interaction using JavaScript
 - **forms.html** – Page demonstrating form creation and input handling in HTML
 - **headerfooter.html** – Page demonstrating the use of header, main, and footer elements
+- **style.css** – Main stylesheet for styling HTML pages
+- **lorem.html** – Page demonstrating basic CSS styling
 
 ---
 
