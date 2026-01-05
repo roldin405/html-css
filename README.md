@@ -66,6 +66,11 @@ This repository tracks my progress as I learn core web development concepts step
 - Using basic CSS selectors (element and id selectors)
 - Styling text and backgrounds using CSS
 - Understanding the separation of HTML (structure) and CSS (style)
+- Styling fonts using CSS
+- Using the `font-family` property with fallback fonts
+- Changing font size using `font-size`
+- Making text bold using `font-weight`
+- Styling text using `font-style` (italic)
 
 
 
@@ -90,7 +95,8 @@ This repository tracks my progress as I learn core web development concepts step
 - **headerfooter.html** – Page demonstrating the use of header, main, and footer elements
 - **style.css** – Main stylesheet for styling HTML pages
 - **lorem.html** – Page demonstrating basic CSS styling
-
+- **font.html** – Page demonstrating font styling using CSS
+**stylee.css** – Main stylesheet for styling HTML pages
 ---
 
 
