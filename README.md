@@ -96,7 +96,7 @@ This repository tracks my progress as I learn core web development concepts step
 - **style.css** – Main stylesheet for styling HTML pages
 - **lorem.html** – Page demonstrating basic CSS styling
 - **font.html** – Page demonstrating font styling using CSS
-**stylee.css** – Main stylesheet for styling HTML pages
+- **stylee.css** – Main stylesheet for styling HTML pages
 ---
 
 
