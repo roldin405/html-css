@@ -1,6 +1,6 @@
 # HTML & CSS Learning
 
-A beginner-friendly repository where I practice and experiment while learning **HTML CSS**.
+A beginner-friendly repository where I practice and experiment while learning **HTML and CSS**.
 
 This repository tracks my progress as I learn core web development concepts step by step.
 
