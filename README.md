@@ -71,6 +71,11 @@ This repository tracks my progress as I learn core web development concepts step
 - Changing font size using `font-size`
 - Making text bold using `font-weight`
 - Styling text using `font-style` (italic)
+- Styling elements using CSS borders
+- Using `border-style`, `border-width`, and `border-color`
+- Applying borders to individual sides (top, right, bottom, left)
+- Using `border-radius` to create rounded corners
+- Using different color formats like RGB and HSL in CSS
 
 
 
@@ -97,6 +102,9 @@ This repository tracks my progress as I learn core web development concepts step
 - **lorem.html** – Page demonstrating basic CSS styling
 - **font.html** – Page demonstrating font styling using CSS
 - **stylee.css** – Main stylesheet for styling HTML pages
+- **border.html** – Page demonstrating CSS border styling
+**styleee.css** – Main stylesheet for styling HTML pages
+
 ---
 
 
